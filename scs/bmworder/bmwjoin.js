@@ -15,7 +15,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
     
     
 
-    if (!isCreator) return m.reply("*📛 THIS IS AN OWNER COMMAND*");
+    if (!isCreator) return m.reply("*📛 THIS IS AN OWNER COMMAND❌*");
 
     if (!text) throw '*Enter The Group Link!*';
     if (!isUrl(args[0]) && !args[0].includes('whatsapp.com')) throw '*INVALID LINK!*';
