@@ -106300,7 +106300,7 @@ const searchRepo = async (m, Matrix) => {
   const validCommands = ['repo', 'sc', 'script'];
 
   if (validCommands.includes(cmd)) {
-    const repoUrl = `https://api.github.com/repos/devibraah/BWM-XMD`;
+    const repoUrl = `https://api.github.com/repos/yassin994/YESSER-MD`;
     
     await handleRepoCommand(m, Matrix, repoUrl);
   }
@@ -106321,13 +106321,13 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
       owner,
     } = repoData;
 
-    const messageText = `*_BMW MD GITHUB INFORMATION_*\n
+    const messageText = `*_YESSER MD GITHUB INFORMATION_*\n
 *_Name:_* ${name}
 *_Stars:_* ${stargazers_count}
 *_Forks:_* ${forks_count}
 *_Created At:_* ${new Date(created_at).toLocaleDateString()}
 *_Last Updated:_* ${new Date(updated_at).toLocaleDateString()}
-*_Owner:_* *_Ibrahim Adams_*
+*_Owner:_* *_YESSER TECH_*
     `;
 
     const repoMessage = generateWAMessageFromContent(m.from, {
@@ -106342,12 +106342,12 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
               text: messageText,
             }),
             footer: proto.Message.InteractiveMessage.Footer.create({
-              text: '*© Ibrahim Adams*',
+              text: '*© yessertech*',
             }),
             header: proto.Message.InteractiveMessage.Header.create({
               ...(await prepareWAMessageMedia({
                 image: {
-                  url: 'https://telegra.ph/file/0c225f7da5616cdcbec80.jpg',
+                  url: 'https://files.catbox.moe/9it5tk.jpeg',
                 },
               }, { upload: Matrix.waUploadToServer })),
               title: '',
@@ -106360,22 +106360,22 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
                 {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
-                    display_text: 'SUBSCRIBE ON YOUTUBE',
-                    url: 'https://youtube.com/@ibrahimaitech',
+                    display_text: 'SUBSCRIBE🥺 ON YOUTUBE',
+                    url: 'https://www.youtube.com/@Yesserboy92',
                   }),
                 },
                 {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
-                    display_text: 'BOT REPO',
-                    url: 'https://github.com/devibraah/BWM-XMD/',
+                    display_text: '🖐️🤠hi! REPO',
+                    url: 'https://github.com/yassin994/YESSER-MD/',
                   }),
                 },
                 {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
                     display_text: 'WHATSAPP CHANNEL',
-                    url: 'https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y',
+                    url: 'https://files.catbox.moe/9it5tk.jpeg',
                   }),
                 },
               ],
