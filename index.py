@@ -60973,10 +60973,10 @@
 #!/usr/adams
 
 """
-Author             : Sir Ibrahim Adams
-contact            : ibraahadams@gmail.com
-Github             : https://github.com/devibraah
-my youtube channel : Youtube.com/@ibrahimaitech
+Author             :  🤠 YESSER TECH🤠
+contact            : https://wa.me/255621995482
+Github             : https://github.com/yassin994
+my youtube channel : https://www.youtube.com/@Yesserboy92
 
 subcribe my youtube Channel to learn ethical Hacking ^_^
 """
