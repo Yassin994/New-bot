@@ -15173,9 +15173,9 @@
 
 
 <p align="center">  
-  <a href="https://telegra.ph/file/f03bd3b5a50f2892ec1ee.jpg">
-    <img alt="secktor docs" height="300" src="https://telegra.ph/file/f03bd3b5a50f2892ec1ee.jpg">
-    <h1 align="center"> BMW BWB MADE BY IBRAHIM ADAMS</h1>
+  <a href="https://files.catbox.moe/9it5tk.jpeg">
+    <img alt="secktor docs" height="300" src="https://files.catbox.moe/9it5tk.jpeg">
+    <h1 align="center"> YESSER MD MADE BY YESSER TECH</h1>
   </a>
 </p>  
   
@@ -15189,13 +15189,13 @@
 
 </p>
 <p align="center">
-<a href="https://github.com/ibrahimaitech"><img title="Author" src="https://img.shields.io/badge/ibrahimaitech-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/25471077266"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/yassin994"><img title="Author" src="https://img.shields.io/badge/yassin994-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/255621995482"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/ibrahimaitech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/ibrahimaitech?label=Followers&style=social"></a>
-<a href="https://github.com/ibrahimaitech/BMW-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ibrahimaitech/BMW-MD?&style=social"></a>
-<a href="https://github.com/ibrahimaitech/BMW-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/ibrahimaitech/BMW-MD?style=social"></a>
-<a href="https://github.com/ibrahimaitech/BMW-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ibrahimaitech/BMW-MD?label=Watching&style=social"></a>
+<a href="https://github.com/yassin994?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/yassin994?label=Followers&style=social"></a>
+<a href="https://github.com/yasssin994/New-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/yassin994/New-bot?&style=social"></a>
+<a href="https://github.com/yassin994/New-bot/network/members"><img title="Fork" src="https://img.shields.io/github/forks/yassin994/New-bot?style=social"></a>
+<a href="https://github.com/yassin994/New-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ibrahimaitech/BMW-MD?label=Watching&style=social"></a>
 </p>></a>                     
 
    <h1 align="center"                  
@@ -15215,7 +15215,7 @@
 
 
 
-### 🧚‍♀️IBRAHIM ADAM'S💫
+### 💫yesser tech support💫
 
 ***
 
@@ -15232,7 +15232,7 @@
 
 ⭕  DEPLOY NORMAL BOT *[ HEROKU ]*
 
-[![Find On Whatsapp ](https://img.shields.io/badge/🚘Click_Here-pink.svg)](https://dashboard.heroku.com/new?template=https://github.com/devibrah/BWM-XMD)
+[![Find On Whatsapp ](https://img.shields.io/badge/🚘Click_Here-pink.svg)](https://dashboard.heroku.com/new?template=https://github.com/yassin994/YESSER-MD)
 
 ****
 
@@ -15250,7 +15250,7 @@
 
 [![Find On Whatsapp ](https://img.shields.io/badge/🚘How_to_deploy-grey.svg)](https://youtu.be/MsHd3uzDUhY?si=mitgINm02HtAhoBm)
 
- # ⚡ BMW INFO
+ # ⚡ YESSER MD INFO
 ***
 
 </p>
@@ -15259,8 +15259,8 @@
 
 
 ## ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ
-<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=red" />
   </a>
 </p>
 
@@ -15342,12 +15342,12 @@ In conclusion, the ChatBot solution presented here provides an efficient and use
 We welcome any feedback or suggestions you may have to help improve the chatbot solution further. With the ability to integrate with different messaging platforms and services, this solution can be adapted to various use cases and industries. As the chatbot ecosystem continues to grow, we believe that solutions like this will play an increasingly important role in providing seamless and efficient interactions between users and services.
 
 
-[Ibrahim Adams Code](.)
+[yesser tech Code](.)
 
 
 
 
-[BMW MD COPY](.)
+[YESSER MD COPY](.)
 
 
 
