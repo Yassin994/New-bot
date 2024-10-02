@@ -106289,18 +106289,18 @@
 
 
 {
-  "name": "BMW-MD",
+  "name": "YESSER-MD",
   "version": "10.8.1",
-  "description": "BMW-MD latest multi device whatsapp bot",
+  "description": "YESSER-MD latest multi device whatsapp bot",
   "main": "body.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start body.js --deep-monitoring --attach --name BMW-MD",
-    "stop": "pm2 stop BMW-MD",
+    "start": "pm2 start body.js --deep-monitoring --attach --name YESSER-MD",
+    "stop": "pm2 stop YESSER-MD",
     "restart": "pm2 restart BMW-MD"
   },
-  "keywords": ["bmw-md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "Ibrahim Adams",
+  "keywords": ["Yesser-md", "whatsapp-bot", "whatsapp md bot"],
+  "author": "yesser tech",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
